@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://db.onlinewebfonts.com/c/7d428d036c0e10ab13060d0277a726a4?family=Report");
+
+@import "tailwindcss";
+
+@theme {
+  --color-fu-color: #2988cb;
+  --font-tinos: "Tinos", "serif", "Roman";
+}
